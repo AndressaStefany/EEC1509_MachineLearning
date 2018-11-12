@@ -32,5 +32,17 @@
 	- Cost Function 
 	- Multiclass Classification
 	- Regularization
-
+- Lesson #08
+	- Clustering Basic
+	- K-Means
+	- Case study: senators votes, nba
+- Lesson #09
+	- Introduction to Decision Tree
+	- Converting categorical variables
+	- Splitting Data
+	- Decision Trees as flows of data
+	- Entropy
+	- Information gain
+	- Applying Decision Trees
+	- Overfitting problem
 
