@@ -46,3 +46,10 @@
 	- Applying Decision Trees
 	- Overfitting problem
 
+- Lesson #10
+	- Ensembles (Random Forest)
+	- Combining predictions
+	- Why Ensembling works
+	- Introduction variation with bagging and random features
+	- Reducing overfitting using Random Forest
+
