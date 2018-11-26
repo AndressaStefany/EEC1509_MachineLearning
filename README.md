@@ -52,4 +52,10 @@
 	- Why Ensembling works
 	- Introduction variation with bagging and random features
 	- Reducing overfitting using Random Forest
+- Lesson #11
+	- Getting Started with Kaggle
+	- Feature Preparation, Selection and Engineering
+	- Model Selection and Tuning
+	- Creating a Kaggle Workflow
+
 
