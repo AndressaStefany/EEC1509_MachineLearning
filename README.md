@@ -46,3 +46,16 @@
 	- Applying Decision Trees
 	- Overfitting problem
 
+- Lesson #10
+	- Ensembles (Random Forest)
+	- Combining predictions
+	- Why Ensembling works
+	- Introduction variation with bagging and random features
+	- Reducing overfitting using Random Forest
+- Lesson #11
+	- Getting Started with Kaggle
+	- Feature Preparation, Selection and Engineering
+	- Model Selection and Tuning
+	- Creating a Kaggle Workflow
+
+
